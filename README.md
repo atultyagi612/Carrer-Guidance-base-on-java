@@ -1,6 +1,13 @@
 # Carrer-Guidance-base-on-java
 Carrer guidance using java , GUI
 
+# Requirement 
+```
+Java
+Swing(GUI)
+Mysql
+```
+
 # Demo 
 
 # _User Side_
