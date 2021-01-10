@@ -7,6 +7,7 @@ Java
 Swing(GUI)
 Mysql
 ```
+_For run the project run [JavaApplication2.jar](/JavaApplication2/dist/) file and also read [README.TXT](/JavaApplication2/dist/README.TXT)_
 
 # Demo 
 
